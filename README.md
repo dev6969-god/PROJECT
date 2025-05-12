@@ -33,10 +33,7 @@ A web application that converts 2D images to 3D models using advanced depth esti
 
 ### Frontend
 
-```bash
-# Clone the repository
-git clone https://github.com/SUBHADIPMAITI-DEV/2D-to-3D-Image-Converter.git
-cd 2d-to-3d-converter
+
 
 # Install dependencies
 npm install
